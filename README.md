@@ -1,9 +1,9 @@
 #### 实验环境：
 
-windows11
-MinGW64 8.1.0(使用其中的 `g++` 构建)
-opencv 4.6.0
-vscode
+* windows11
+* MinGW64 8.1.0(使用其中的 `g++` 构建)
+* opencv 4.6.0
+* vscode
 
 #### 实验简要说明
 
